@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Dodge AI</string>
+    <string name="play">Play</string>
+    <string name="menu">Menu</string>
+    <string name="score">Score</string>
+    <string name="game_over">Game Over</string>
+    <string name="paused">Paused</string>
+    <string name="resume">Resume</string>
+</resources>
